@@ -55,6 +55,7 @@ let parseAd = (ads, index) => {
             type: ad.type.label,
             category: ad.category.label,
             price: ad.list_price,
+            date: ad.list_time.value,
           };
 
           // Get location: region
