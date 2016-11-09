@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "aws-sdk": "^2.6.15",
     "cron": "^1.1.1",
-    "request-promise": "^4.1.1"
+    "request-promise": "^4.1.1",
+    "shortid": "^2.2.6"
   }
 }
